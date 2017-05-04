@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<title> title </title>
+	<title> Radio Story - Research at UW </title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
