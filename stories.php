@@ -49,6 +49,7 @@
 </div><!-- .featured-content-bar -->
 
 <h1 class="page-heading">Stories</h1>
+<p class="page-subheading"> A collection of stories, on topics related to research and the research environment at the University of Wisconsin-Madison. </p>
 
 <div class="post-content">
 

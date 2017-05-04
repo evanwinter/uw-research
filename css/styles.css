@@ -58,7 +58,6 @@ a:hover {
 .posts {
 	width: 70%;
 	height: 400px;
-	padding: 10px 0px;
 }
 
 .excerpt {
@@ -68,7 +67,7 @@ a:hover {
 .sidebar-content {
 	width: 28%;
 	margin-left: 2%;
-	margin-top: 20px;
+	margin-top: 10px;
 	background-color: #f6f6f6;
 	padding: 20px;
 }
@@ -112,15 +111,6 @@ a:hover {
 	display: none;
 }
 
-.welcome {
-	padding: 30px 0px 30px 0px;
-	margin: 30px 0px 15px 0px;
-	border-top: 10px solid darkred;
-}
-
-
-
-
 .slideUnderline:after {
 	content: '';
 	display: block;
@@ -142,10 +132,21 @@ a:hover {
 	font-size: 2.75em;
 	margin-top: 30px;
 	text-transform: uppercase;
+	padding: 30px 0px 0px 0px;
+	margin: 30px 0px 0px 0px;
+	border-top: 10px solid darkred;
 }
 
+.page-subheading {
+	font-size: 1.25em;
+	margin: 10px 0px 30px 0px;
+}
 
-
+.welcome {
+	font-size: 2.5em;
+	text-transform: none;
+	margin-bottom: 30px;
+}
 
 
 
