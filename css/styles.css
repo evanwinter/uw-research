@@ -1,0 +1,112 @@
+body {
+<<<<<<< HEAD
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	margin: 0;
+	width: 90%;
+	margin: 0 auto;
+}
+
+h1, h2 {
+	margin: 10px 0;
+	padding: 0;
+=======
+	font-family: "Avenir", "Helvetica Neue", sans-serif;
+>>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
+}
+
+a,
+a:hover {
+	color: black;
+	text-decoration: none;
+<<<<<<< HEAD
+}
+
+.featured-content-bar {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 0px;
+	border-top: 1px solid #f6f6f6;
+	border-bottom: 1px solid #f6f6f6;
+}
+
+.featured-post {
+	text-transform: uppercase;
+	font-weight: 200;
+	width: 300px;
+	height: 200px;
+	background-color: darkred;
+	margin: 0 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+}
+
+.featured-post:hover {
+	opacity: .5;
+	transition-duration: .25s;
+	color: red;
+}
+
+.post-content {
+	display: flex;
+	padding-top: 30px;
+}
+
+.posts {
+	width: 70%;
+	height: 400px;
+	padding: 10px 20px;
+}
+
+.sidebar-content {
+	width: 28%;
+	height: 200px;
+	margin-left: 2%;
+	background-color: #f6f6f6;
+}
+
+.post-info {
+	border: 1px solid green;
+}
+
+.post-info > a {
+	color: darkred;
+	text-transform: uppercase;
+}
+
+.post-info > a:hover {
+	text-decoration: underline;
+}
+
+.post-body {
+	/*max-width: 600px;*/
+	line-height: 2;
+}
+
+.hide {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+	text-transform: uppercase;
+}
+>>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff

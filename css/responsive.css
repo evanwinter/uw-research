@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+@media only screen and (max-width: 1048px) {
+	/* ... */
+}
+
+@media only screen and (max-width: 991px) {
+	.nav-header {
+		font-size: 2.5em
+	}
+
+}
+
+@media only screen and (max-width: 768px) {
+	.nav-header {
+		font-size: 2.5em
+	}
+
+	.nav-main {
+		display: none;
+	}
+
+	.main-post-content {
+		width: 100%;
+	}
+
+	.sidebar-content {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+=======
+@media only screen and (max-width: 1048px;) {
+	/* ... */
+}
+
+@media only screen and (max-width: 991px;) {
+	/* ... */
+}
+
+@media only screen and (max-width: 768px;) {
+	/* ... */
+}
+
+@media only screen and (max-width: 414px;) {
+>>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
+	/* ... */
+}
