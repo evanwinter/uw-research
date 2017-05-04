@@ -18,7 +18,11 @@
 		display: none;
 	}
 
-	.main-post-content {
+	.post-content {
+		/*flex-direction: column;*/
+	}
+
+	.posts {
 		width: 100%;
 	}
 

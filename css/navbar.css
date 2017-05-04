@@ -19,7 +19,6 @@ nav {
 	width: 50%;
 	display: flex;
 	justify-content: flex-start;
-	padding-left: 20px;
 	align-items: center;
 	font-size: 3em;
 	font-weight: 700;
@@ -28,6 +27,7 @@ nav {
 
 .nav-links {
 	width: 60%;
+	font-size: 1.25em;
 	display: flex;
 	justify-content: flex-end;
 }
@@ -35,9 +35,9 @@ nav {
 .nav-link {
 	padding: 20px 15px;
 	font-weight: 600;
-	color: #b50c0c;
+	color: darkred;
 }
 
 .nav-link:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }

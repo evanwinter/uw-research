@@ -10,6 +10,10 @@ h1, h2 {
 	padding: 0;
 }
 
+img {
+	min-width: 100%;
+}
+
 a,
 a:hover {
 	color: black;
@@ -37,6 +41,10 @@ a:hover {
 	color: white;
 }
 
+.featured-post-image {
+	max-width: 100%;
+}
+
 .featured-post:hover {
 	opacity: .5;
 	transition-duration: .25s;
@@ -45,51 +53,96 @@ a:hover {
 
 .post-content {
 	display: flex;
-	padding-top: 30px;
 }
 
 .posts {
 	width: 70%;
 	height: 400px;
-	padding: 10px 20px;
+	padding: 10px 0px;
+}
+
+.excerpt {
+	font-size: 1.25em;
 }
 
 .sidebar-content {
 	width: 28%;
-	height: 200px;
 	margin-left: 2%;
+	margin-top: 20px;
 	background-color: #f6f6f6;
+	padding: 20px;
 }
 
-.post-info {
-	border: 1px solid green;
+.sidebar-content > ul > a {
+	color: darkred;
 }
 
-.post-info > a {
+.sidebar-content > ul > a:hover {
+	text-decoration: underline;
+}
+
+.post {
+	border: 3px solid darkred;
+	padding: 10px;
+	margin: 10px 0;
+}
+
+.post:hover {
+	background-color: #f2f2f2;
+}
+
+.post-date,
+.post-author {
 	color: darkred;
 	text-transform: uppercase;
 }
 
-.post-info > a:hover {
+.post-date:hover,
+.post-author:hover {
+	color: darkred;
 	text-decoration: underline;
 }
 
 .post-body {
-	/*max-width: 600px;*/
 	line-height: 2;
+	padding: 10px;
 }
 
 .hide {
 	display: none;
 }
 
+.welcome {
+	padding: 30px 0px 30px 0px;
+	margin: 30px 0px 15px 0px;
+	border-top: 10px solid darkred;
+}
 
 
 
 
+.slideUnderline:after {
+	content: '';
+	display: block;
+	height: 2px;
+	width: 0;
+	background: transparent;
+	transition: width .25s ease, background-color .25s ease;
+	-webkit-transition: width .25s ease, background-color .25s ease;
+	-moz-transition: width .25s ease, background-color .25s ease;
+}
 
+.slideUnderline:hover:after,
+.slideUnderline:focus:after {
+	width: 100%;
+	background: darkred;
+}
 
-
+.page-heading {
+	font-size: 2.75em;
+	margin-top: 30px;
+	text-transform: uppercase;
+}
 
 
 
