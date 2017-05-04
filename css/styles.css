@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
 	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	margin: 0;
 	width: 90%;
@@ -9,16 +8,12 @@ body {
 h1, h2 {
 	margin: 10px 0;
 	padding: 0;
-=======
-	font-family: "Avenir", "Helvetica Neue", sans-serif;
->>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
 }
 
 a,
 a:hover {
 	color: black;
 	text-decoration: none;
-<<<<<<< HEAD
 }
 
 .featured-content-bar {
@@ -106,7 +101,3 @@ a:hover {
 
 
 
-=======
-	text-transform: uppercase;
-}
->>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff

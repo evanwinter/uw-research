@@ -1,22 +1,14 @@
 nav {
 	border-bottom: #f2f2f2;
-<<<<<<< HEAD
 	text-transform: uppercase;
 	padding: 40px 0px;
 	
-=======
->>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
 }
 
 .nav-main {
 	display: flex;
-<<<<<<< HEAD
 /*	max-width: 1140px;
 	margin: 0 auto;*/
-=======
-	max-width: 1140px;
-	margin: 0 auto;
->>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
 }
 
 .nav-section {
@@ -24,23 +16,14 @@ nav {
 }
 
 .nav-header {
-<<<<<<< HEAD
 	width: 50%;
-=======
-	width: 40%;
->>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
 	display: flex;
 	justify-content: flex-start;
 	padding-left: 20px;
 	align-items: center;
-<<<<<<< HEAD
 	font-size: 3em;
 	font-weight: 700;
 
-=======
-	font-size: 2em;
-	font-weight: 700;
->>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
 }
 
 .nav-links {
@@ -50,7 +33,6 @@ nav {
 }
 
 .nav-link {
-<<<<<<< HEAD
 	padding: 20px 15px;
 	font-weight: 600;
 	color: #b50c0c;
@@ -58,27 +40,4 @@ nav {
 
 .nav-link:hover {
 	text-decoration: underline;
-=======
-	padding: 25px 30px;
-	text-transform: uppercase;
-	font-weight: 600;
-}
-
-.slideUnderline:after {
-	content: '';
-	display: flex;
-	
-	height: 2px;
-	width: 0;
-	background: transparent;
-	transition: width .25s ease, background-color .25s ease;
-	-webkit-transition: width .25s ease, background-color .25s ease;
-	-moz-transition: width .25s ease, background-color .25s ease;
-}
-
-.slideUnderline:hover:after,
-.slideUnderline:focus:after {
-	width: 100%;
-	background: black;
->>>>>>> b5e88ceae1a5719958c09e263f6852e6d05795ff
 }
