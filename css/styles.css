@@ -166,7 +166,7 @@ ul {
 	width: 28%;
 	margin-left: 2%;
 	margin-top: 10px;
-	max-height: 620px;
+	/*max-height: 620px;*/
 	border: 2px solid #eee;
 	border-radius: 5px;
 	padding: 20px;
