@@ -29,34 +29,24 @@
 
 <div class="body-content">
 
-<div class="featured-content-bar">
-    <a href="" class="featured-post">
-        <div class="featured-post-image">
-            <img  class="featured-post-image" src="images/research-1.jpg">
-            <!-- <span class="featured-post-caption">post 1</span> -->
-        </div>
-    </a>
-    <a href="" class="featured-post">
-        <div class="featured-post-image">
-            <img  class="featured-post-image" src="images/research-2.jpg">
-            <!-- <span class="featured-post-caption">post 2</span> -->
-        </div>
-    </a>
-    <a href="" class="featured-post">
-        <div>
-            <img  class="featured-post-image" src="images/research-3.jpg">
-            <!-- <span class="featured-post-caption">post 3</span> -->
-        </div>
-    </a>
-</div><!-- .featured-content-bar -->
+<h1 class="page-heading welcome">Welcome to our exploration of research and the impact of research rankings at the University of Wisconsin-Madison. </h1>
 
-<h1 class="page-heading welcome">Welcome to our exploration of the world of research at the University of Wisconsin-Madison. For a brief overview of our reporting, watch the introduction video below.</h1>
+<div class="red-divider"></div>
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/kGv6kIP6v24?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+<h2 style="font-weight: 400; color: darkgray">For a brief overview of our topic, watch our introductory slideshow below.</h2>
+<br>
 
-
+<video width="100%" controls style="margin: 0 auto; border: 4px solid darkred">
+  <source src="images/slideshow.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 </div><!-- .body-content -->
+
+<footer>
+    By Jack Kelly, Ningyuan Ma, Steven Potter, Marissa Sugrue and Evan Winter
+</footer>
 
 </body>
 

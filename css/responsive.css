@@ -1,21 +1,57 @@
-@media only screen and (max-width: 1048px) {
-	/* ... */
-}
-
 @media only screen and (max-width: 991px) {
 	.nav-header {
-		font-size: 2.5em
+		width: 50%;
 	}
 
+	.nav-links {
+		font-size: 1.2em;
+		width: 50%;
+	}
+
+	.nav-link {
+		padding: 20px 10px;
+	}
+
+}
+
+@media only screen and (max-width: 873px) {
+	.nav-header {
+		font-size: 2.75em;
+		width: 53%
+	}
+
+	.nav-links {
+		width: 47%;
+		font-size: .98em;	
+	}
 }
 
 @media only screen and (max-width: 768px) {
+	
+	nav {
+		padding: 10px 0px;
+	}
+
+
 	.nav-header {
-		font-size: 2.5em
+		font-size: 3em;
+	}
+
+	.nav-links {
+		font-size: 1.1em;
+	}
+
+	.nav-link {
+		padding: 10px;
 	}
 
 	.nav-main {
-		display: none;
+		flex-direction: column;
+	}
+
+	.nav-section {
+		justify-content: center;
+		width: 100%;
 	}
 
 	.post-content {
@@ -26,11 +62,40 @@
 		width: 100%;
 	}
 
-	.sidebar-content {
+	.asfs {
+		width: 100%;
+	}
+
+	.page-heading {
+		margin-top: 10px;
+	}
+
+	.sidebar {
 		display: none;
+	}
+
+	.welcome {
+		font-size: 2em;
+		font-weight: 400;
 	}
 }
 
-@media only screen and (max-width: 414px) {
-	/* ... */
+@media only screen and (max-width: 514px) {
+	.nav-header {
+		font-size: 2.65em;
+	}
+
+	.welcome {
+		font-size: 1.75em;
+	}
+
+	.page-heading,
+	.page-subheading {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.body-content {
+		width: 100%;
+	}
 }
