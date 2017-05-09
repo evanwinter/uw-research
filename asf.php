@@ -36,9 +36,19 @@
             <div class="asf" id="ningyuan-asf">
                 <h1>Data Visualizations – <small>Ningyuan Ma</small></h1>
                 <div class="red-divider-left"></div>
-                <img src="images/ningyuan-asf-1.png">
-                <img src="images/ningyuan-asf-2.png">
-                <img src="images/ningyuan-asf-3.png">
+                <img src="images/ningyuan-asf-one.png">
+                <img src="images/ningyuan-asf-two.png">
+                <span class="caption">Source: National Science Foundation, Higher Education Research and Development Survey <br>Graph by: Ningyuan Ma</span>
+
+                <p>Apart from looking into which subject gains major or insufficient support, it is equally important to understand where all the research money come from and how much responsibility each institution undertakes in providing these funding. Due to different political environment and economic structures associated with each institution, the funding structure of every university is interestingly different.</p>
+
+                <p>Johns Hopkins University relies 86 percent of its research activities on federal grants, compared to the San Francisco and Los Angeles campuses of University of California and UW-Madison, where only half of research funding is from federal source. It's advantage in federal funding is even more salient when looking at the actual dollar amount.</p>
+
+                <p>Only exceeded by University of Michigan, UW-Madison receives the second most state funding in dollar amount, which accounts for 35 percent of its overall research cost. </p>
+
+                <p>Duke University has a major support from surrounding businesses, something desirable but difficult to achieve for UW-Madison, according to Natasha Kassulke, Strategic Communication Manager for the Vice Chancellor for Research Office. </p>
+
+
             </div>
 
             <div class="asf" id="marissa-asf">
