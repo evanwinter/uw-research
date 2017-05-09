@@ -33,7 +33,7 @@
 
 <div class="red-divider"></div>
 
-<h2 style="font-weight: 400; color: darkgray">For a brief overview of our topic, watch our introductory slideshow below.</h2>
+<p class="page-subheading" style="text-align: center">For a brief overview of our topic, watch our introductory slideshow below.</p>
 <br>
 
 <video width="100%" controls style="margin: 0 auto; border: 4px solid darkred">

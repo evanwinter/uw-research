@@ -69,8 +69,6 @@
 
 					<div class="red-divider"></div>
 
-					<!-- <img style="max-width: 100%" src="images/research-2.jpg"> -->
-
 					<p>In light of the decreased support for UW-Madison from the state budget, faculty members have been experiencing and reacting to this trend.</p>
 
 					<p>It’s been about a year since faculty members from several UW institutions declared no confidence in the system’s leader Ray Cross over the change of the faculty tenure policy. Moreover, faculties are constantly approached and recruited by other institutions. Each year more than one in five faculty members who received outside offers eventually left Wisconsin, usually taking their research grants with them, creating losses in both financial and intellectual capacity of the state’s flagship university.</p>
@@ -83,7 +81,7 @@
 
 					<p>With 115 research centers and programs, UW-Madison is long known nationwide or even worldwide for its research capacity, especially in areas of education, communication and sociology, according to US News & World Report rankings.</p>
 
-					<p><h2>Decipher the numbers</h2></p>
+					<h2>Decipher the numbers</h2>
 
 					<p>According to NSF Higher Education Research Development survey data, throughout the years, UW-Madison has been holding a stable position among the Big Ten institutions in terms of research expenditures - usually right after University of Michigan in most of the subjects.</p>
 
@@ -93,9 +91,8 @@
 
 					<p>Within the historical trend of UW-Madison’s ranking, biological science, medical science stand out as the two subjects that spend increasingly less money on research. Physical science and psychology display the similar trend, but both subjects achieves major growth in the latest fiscal year.</p>
 
-					<p><img style="max-width: 100%" src="images/ningyuan-asf-3.png"></p>
-					<p>
-					<p><span class="caption">Most subjects experience growths and cuts in research funding, but expenditures for biological science and medical science are constantly achieving negative growth. | Source: National Science Foundation, Higher Education Research and Development Survey | Graph by: Ningyuan Ma</span></p>
+					<img style="max-width: 100%" src="images/ningyuan-asf-3.png">
+					<span class="caption">Most subjects experience growths and cuts in research funding, but expenditures for biological science and medical science are constantly achieving negative growth. | Source: National Science Foundation, Higher Education Research and Development Survey | Graph by: Ningyuan Ma</span>
 
 					<p>Noticeably, since the cost of research could vary greatly across subjects, and different universities have their unique structures of research programs development, the numeric order of ranking itself could only provide limited and even misleading information.</p>
 
